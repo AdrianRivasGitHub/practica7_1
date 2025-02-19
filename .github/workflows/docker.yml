@@ -40,5 +40,5 @@ jobs:
           push: true
           tags: | #
             adrianrivasgithub/practica7_1:latest 
-            ghcr.io/adrianaivasgithub/practica7_1:latest 
+            ghcr.io/adrianrivasgithub/practica7_1:latest 
 
