@@ -39,6 +39,6 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            AdrianRivasGitHub/practica7_1:latest 
-            ghcr.io/AdrianRivasGitHub/practica7_1:latest 
+            adrianrivasgithub/practica7_1:latest 
+            ghcr.io/adrianaivasgithub/practica7_1:latest 
 
